@@ -1,0 +1,40 @@
+a{
+  color: black;
+}
+
+button{
+background-color:wheat;
+color: black);
+border-radius: 20px;
+}
+
+body{
+background-color: #2a7e7d;
+  
+  
+  
+}
+
+h1 {
+    color: black;
+    font-size: 35px;
+    font-family: 'Georgia';
+}
+
+p{
+    font-size: 25px;
+    color: black;
+    font-family: 'Georgia';
+}
+
+footer{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
+
+mark{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
